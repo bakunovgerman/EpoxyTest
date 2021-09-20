@@ -1,0 +1,25 @@
+com/example/epoxytest/ItemModelModelBuilder.java
+ com.example.epoxytest.ItemModelModelBuilder
+com/example/epoxytest/R2.java
+ com.example.epoxytest.R2
+ com.example.epoxytest.R2$anim
+ com.example.epoxytest.R2$attr
+ com.example.epoxytest.R2$bool
+ com.example.epoxytest.R2$color
+ com.example.epoxytest.R2$dimen
+ com.example.epoxytest.R2$drawable
+ com.example.epoxytest.R2$id
+ com.example.epoxytest.R2$integer
+ com.example.epoxytest.R2$layout
+ com.example.epoxytest.R2$plurals
+ com.example.epoxytest.R2$string
+ com.example.epoxytest.R2$style
+ com.example.epoxytest.R2$styleable
+com/example/epoxytest/databinding/ItemCarBinding.java
+ com.example.epoxytest.databinding.ItemCarBinding
+com/example/epoxytest/ItemModelModel_.java
+ com.example.epoxytest.ItemModelModel_
+com/example/epoxytest/databinding/ActivityMainBinding.java
+ com.example.epoxytest.databinding.ActivityMainBinding
+com/example/epoxytest/BuildConfig.java
+ com.example.epoxytest.BuildConfig
